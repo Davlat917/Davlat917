@@ -9,10 +9,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davlat917&show_icons=true&locale=en&layout=compact" alt="Davlat917" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rustam2900&show_icons=true&locale=en" alt="temirovuz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davlat917&show_icons=true&locale=en" alt="temirovuz" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam2900" alt="Rustam2900" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davlat917" alt="Davlat917" /></p>
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
