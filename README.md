@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
 </h1>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rustam2900&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davlat917&theme=github_dark" alt="info">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davlat917&show_icons=true&locale=en&layout=compact" alt="Davlat917" /></p>
 
