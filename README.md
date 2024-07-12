@@ -7,7 +7,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rustam2900&theme=github_dark" alt="info">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rustam2900&show_icons=true&locale=en&layout=compact" alt="Rustam2900" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davlat917&show_icons=true&locale=en&layout=compact" alt="Davlat917" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rustam2900&show_icons=true&locale=en" alt="temirovuz" /></p>
 
@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/Jumanazarov_Rustam"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://t.me/davlat917"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 
 
